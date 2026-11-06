@@ -1,0 +1,11 @@
+{
+  "title": "Chalcedony Adventures | Kenya Safaris, Vehicle Hire, Stays & Tours",
+  "description": "Explore tours, safaris, group trips, accommodation, and vehicle hire, then send booking enquiries directly to Chalcedony Adventures.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
